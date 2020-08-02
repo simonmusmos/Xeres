@@ -1,0 +1,68 @@
+c:\users\admin\documents\visual studio 2015\Projects\os\os\bin\Debug\os.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\os\os\bin\Debug\os.exe
+c:\users\admin\documents\visual studio 2015\Projects\os\os\bin\Debug\os.pdb
+c:\users\admin\documents\visual studio 2015\Projects\os\os\bin\Debug\os.xml
+c:\users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.vbprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.exe
+c:\users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.xml
+c:\users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.pdb
+c:\users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.calcu.resources
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.notepadform.resources
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.txtboxname.resources
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.nameform.resources
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\bin\Debug\Interop.WMPLib.dll
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.vbproj.ResolveComReference.cache
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.mpform.resources
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\bin\Debug\MySql.Data.dll
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.chnbck.resources
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.txtalrd.resources
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.ksmash.resources
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.dateee.resources
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.alarm.resources
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.stopwatch.resources
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.cdt.resources
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.paintrap.resources
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.browser.resources
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.welcomeform.resources
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.darkness.resources
+C:\Users\admin\documents\visual studio 2015\Projects\os\os\obj\Debug\os.unpw.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\bin\Debug\os.exe.config
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\Interop.WMPLib.dll
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.vbproj.ResolveComReference.cache
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.exe
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.xml
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.pdb
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\bin\Debug\os.exe
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\bin\Debug\os.pdb
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\bin\Debug\os.xml
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\bin\Debug\Interop.WMPLib.dll
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.vbprojResolveAssemblyReference.cache
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.alarm.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.browser.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.calcu.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.cdt.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.chnbck.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.darkness.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.dateee.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.Form1.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.ksmash.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.mpform.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.Resources.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.nameform.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.notepadform.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.paintrap.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.stopwatch.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.txtalrd.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.txtboxname.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.unpw.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.welcomeform.resources
+C:\Users\Simon\Downloads\PROGRAMS-20200802T041344Z-001\PROGRAMS\SIM0N\Projects\os\os\obj\Debug\os.vbproj.GenerateResource.Cache

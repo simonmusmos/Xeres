@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BB1F55D9-2D72-4274-ABE5-44A70E8A9691}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>os.My.MyApplication</StartupObject>
+    <RootNamespace>os</RootNamespace>
+    <AssemblyName>os</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>os.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>os.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=5.0.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 6.4.6\Assemblies\v4.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="alarm.Designer.vb">
+      <DependentUpon>alarm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="alarm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="browser.Designer.vb">
+      <DependentUpon>browser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="browser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calcu.Designer.vb">
+      <DependentUpon>calcu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="calcu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cdt.Designer.vb">
+      <DependentUpon>cdt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cdt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chnbck.Designer.vb">
+      <DependentUpon>chnbck.vb</DependentUpon>
+    </Compile>
+    <Compile Include="chnbck.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="darkness.Designer.vb">
+      <DependentUpon>darkness.vb</DependentUpon>
+    </Compile>
+    <Compile Include="darkness.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dateee.Designer.vb">
+      <DependentUpon>dateee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dateee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enterfname.Designer.vb">
+      <DependentUpon>enterfname.vb</DependentUpon>
+    </Compile>
+    <Compile Include="enterfname.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ksmash.Designer.vb">
+      <DependentUpon>ksmash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ksmash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="mpform.Designer.vb">
+      <DependentUpon>mpform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mpform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="nameform.Designer.vb">
+      <DependentUpon>nameform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="nameform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="notepadform.Designer.vb">
+      <DependentUpon>notepadform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="notepadform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="paintrap.Designer.vb">
+      <DependentUpon>paintrap.vb</DependentUpon>
+    </Compile>
+    <Compile Include="paintrap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stopwatch.Designer.vb">
+      <DependentUpon>stopwatch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="stopwatch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="txtalrd.Designer.vb">
+      <DependentUpon>txtalrd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="txtalrd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="txtboxname.Designer.vb">
+      <DependentUpon>txtboxname.vb</DependentUpon>
+    </Compile>
+    <Compile Include="txtboxname.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="unpw.Designer.vb">
+      <DependentUpon>unpw.vb</DependentUpon>
+    </Compile>
+    <Compile Include="unpw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="welcomeform.Designer.vb">
+      <DependentUpon>welcomeform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="welcomeform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="alarm.resx">
+      <DependentUpon>alarm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="browser.resx">
+      <DependentUpon>browser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calcu.resx">
+      <DependentUpon>calcu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cdt.resx">
+      <DependentUpon>cdt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="chnbck.resx">
+      <DependentUpon>chnbck.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="darkness.resx">
+      <DependentUpon>darkness.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dateee.resx">
+      <DependentUpon>dateee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ksmash.resx">
+      <DependentUpon>ksmash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mpform.resx">
+      <DependentUpon>mpform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nameform.resx">
+      <DependentUpon>nameform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="notepadform.resx">
+      <DependentUpon>notepadform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="paintrap.resx">
+      <DependentUpon>paintrap.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stopwatch.resx">
+      <DependentUpon>stopwatch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="txtalrd.resx">
+      <DependentUpon>txtalrd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="txtboxname.resx">
+      <DependentUpon>txtboxname.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="unpw.resx">
+      <DependentUpon>unpw.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="welcomeform.resx">
+      <DependentUpon>welcomeform.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Penguins.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\miniE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-note-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
